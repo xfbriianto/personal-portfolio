@@ -19,7 +19,7 @@ Haiii! Ini adalah projek portofolio aku yang dibuat pakai React. Simpel, estetik
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username-kamu/portfolio-react.git
+   git clone https://github.com/xfbriianto/personal-portfolio
    ```
 2. Masuk ke foldernya:
    ```bash
