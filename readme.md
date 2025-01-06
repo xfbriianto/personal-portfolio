@@ -39,7 +39,6 @@ Haiii! Ini adalah projek portofolio aku yang dibuat pakai React. Simpel, estetik
 ## 👀 Demo
 
 > **Coming Soon** (Sabar ya, lagi otw deploy ke Netlify/ Vercel).
-> ini dia demonya https://personal-portfolio-ten-pearl.vercel.app/
 
 ## 🤝 Kontribusi
 
