@@ -6,7 +6,7 @@ Haiii! Ini adalah projek portofolio aku yang dibuat pakai React. Simpel, estetik
 
 - **Home Page yang Kece:** Sambutan hangat buat para stalker.
 - **About Me:** Semua tentang aku, tapi versi singkat biar nggak bosen.
-- **Projects:** Pameran karya-karya kerenku.
+- **Projects:** Pameran karya-karya kerenku.(masih belum ada wak)
 - **Contact Me:** Kalau mau reach out, tinggal klik aja!
 
 ## 🛠️ Tools yang Dipakai
@@ -23,7 +23,7 @@ Haiii! Ini adalah projek portofolio aku yang dibuat pakai React. Simpel, estetik
    ```
 2. Masuk ke foldernya:
    ```bash
-   cd portfolio-react
+   cd personal-portfolio
    ```
 3. Install dependencies:
    ```bash
