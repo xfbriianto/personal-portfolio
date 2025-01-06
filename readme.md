@@ -1,3 +1,4 @@
+![Preview Portfolio](public\images\1.png)
 # 🚀 Portfolio with React
 
 Haiii! Ini adalah projek portofolio aku yang dibuat pakai React. Simpel, estetik, dan tentunya anti-mainstream. 🎨✨
